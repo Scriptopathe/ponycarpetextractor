@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|Mixed Platforms" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InteractivePCE/MainForm.Designer.cs">
+    <Files>
+      <File FileName="InteractivePCE/MainForm.Designer.cs" Line="79" Column="107" />
+      <File FileName="Editor/Src/Gui/TextAreaControl.cs" Line="225" Column="23" />
+      <File FileName="InteractivePCE/MainForm.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="InteractiveInterpreter" expanded="True">
+            <Node name="MainForm.cs" expanded="True">
+              <Node name="MainForm.Designer.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="PonyCarpetExtractor" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
